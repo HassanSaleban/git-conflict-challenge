@@ -1,1 +1,1 @@
-# git-conflict-challenge
+# Modification de la première ligne.
